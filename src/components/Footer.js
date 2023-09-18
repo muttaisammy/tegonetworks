@@ -17,7 +17,7 @@ function Footer() {
                 </p>
               </div>
               <div className="col-md-3">
-                <p className="footer-title">Important Link</p>
+                <p className="footer-title">Important Links</p>
                 <ul>
                   <li>
                   <Link   
@@ -53,6 +53,9 @@ function Footer() {
                   </li>
                   <li>
                     <Link to="#" >+254 720 075 587</Link>
+                  </li>
+                  <li>
+                    <Link to="#" >Copyright Kenstate Group @ 2023</Link>
                   </li>
                 </ul>
               </div>
