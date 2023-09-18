@@ -1,15 +1,15 @@
 function Header() {
   return (
     <header>
-      <video src="./video.mp4" loop autoPlay muted></video>
-      <h1>Open Source Website</h1>
+      <video src="./img/telecom3.jpg" ></video>
+      <h1>We deliver Networking Products</h1>
       <div className="row">
         <button className="btn" style={{ cursor: "pointer" }}>
-          Sign Up
+         Create an Account
         </button>
 
         <button className="btn" style={{ cursor: "pointer" }}>
-          Log in
+         Have an account? Log in
         </button>
       </div>
 
