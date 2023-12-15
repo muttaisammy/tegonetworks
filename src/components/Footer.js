@@ -49,10 +49,13 @@ function Footer() {
                     <Link to="#" >tegonetworks@gmail.com</Link>
                   </li>
                   <li>
-                    <Link to="#" > Outspan Eldoret</Link>
+                    <Link to="#" > Eldoret Kenya</Link>
                   </li>
                   <li>
                     <Link to="#" >+254 720 075 587</Link>
+                  </li>
+                           <li>
+                    <Link to="#" >+254 724 052 417</Link>
                   </li>
                   <li>
                     <Link to="#" >Copyright Kenstate Group @ 2023</Link>
